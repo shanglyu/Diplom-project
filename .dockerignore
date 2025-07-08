@@ -1,0 +1,5 @@
+# Ignore tất cả các file không cần thiết trong Docker container
+.git
+node_modules
+vendor/
+*.log
